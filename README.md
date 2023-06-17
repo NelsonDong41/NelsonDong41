@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/logo.png" alt = "./assets/Logo.png">
+</div>
 
-<!--
-**NelsonDong41/NelsonDong41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <p>You are one or more of these</p>
+    <img src="https://profile-counter.glitch.me/nelsondong41/counter" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+While you are here, feel free to check out my stats below!
+</h1>
+<div align="center">
+  <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonDong41&exclude_repo=CS3200--RawMen&theme=github_dark_dimmed&bg_color=00000000&layout=donut'>
+  <img >
+</div>
+
+[![Resume](resume.pdf)](https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/Resume.png)
