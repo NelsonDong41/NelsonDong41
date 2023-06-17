@@ -15,9 +15,7 @@ While you are here, feel free to check out my stats below!
         <a href = "https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/Resume.pdf">
         <h2 style="color:red">Resume</h2>
             <img 
-            src = "https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/download.png" 
-            onmouseover="this.src='https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/downloadOn.png'" 
-            onmouseout="this.src='https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/download.png'" 
+            src = "https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/download.png"
             width = "200px" >
         </a>
 </div>
