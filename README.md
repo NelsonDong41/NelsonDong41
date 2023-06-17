@@ -12,12 +12,12 @@ While you are here, feel free to check out my stats below!
   <img src = "https://github-readme-stats.vercel.app/api?username=NelsonDong41&show_icons=true&theme=github_dark_dimmed&bg_color=00000000&hide_title=true&hide_rank=true"> </img>
   <br />
         <p> Click this really cool button below if you want my </p>
-        <a href = "https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/Resume.pdf">
-        <h2 style="color:red">Resume</h2>
-            <img 
-            src = "https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/download.png"
-            width = "200px" >
-        </a>
+        <h2 align="center">Super cool resume</h2>
+        <p align="center">
+            <a href="https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/Resume.pdf" >
+                <img src="https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/download.png" alt="Clickable Image" width = "200px">
+            </a>
+        </p>
 </div>
 
 <div align="center">
