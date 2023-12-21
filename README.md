@@ -9,10 +9,10 @@
     <br />
 </div>
 <div  align="center">
-        <p> Click this really cool button below if you want my </p>
-        <h2>Super cool resume</h2>
+        <p> Click this really cool button below if you want to see </p>
+        <h2>Super cool website</h2>
         <p>
-            <a href="https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/Resume.pdf" >
+            <a href="https://nelson-dong.vercel.app" >
                 <img src="https://raw.githubusercontent.com/NelsonDong41/NelsonDong41/master/assets/download.png" alt="Clickable Image" width = "200px">
             </a>
         </p>
